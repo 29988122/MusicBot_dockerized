@@ -1,1 +1,1 @@
-docker run -itd --restart always musicbot_docker_discord:latest
+docker run -itd --restart always musicbot_dockerized:latest
