@@ -1,0 +1,1 @@
+docker run -td --restart always musicbot_docker_discord:latest
