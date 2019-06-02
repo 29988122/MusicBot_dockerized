@@ -5,3 +5,5 @@ Since https://github.com/Just-Some-Bots/MusicBot/issues/954 https://github.com/J
 2. Work under /MusicBot_dockerized
 3. sudo docker build -f ./docker/dockerfile -t musicbot_dockerized:latest .
 4. Done. Run it via the commands mentioned in /docker/RUN COMMAND
+
+or Docker image: https://hub.docker.com/r/a29988122/musicbot_dockerized
